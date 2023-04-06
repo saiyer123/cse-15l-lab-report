@@ -1,5 +1,5 @@
 Installing VS Code:
--Go to  https://code.visualstudio.com/ to begin the installation process
+-Go to https://code.visualstudio.com/ to begin the installation process
 -Once on the link download the appropriate link for Mac or Windows
 
 Remotely Connecting:
