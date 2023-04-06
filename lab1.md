@@ -12,4 +12,4 @@ Remotely Connecting:
 Trying Commands:
 -Run the commands cd, ls, pwd, mkdir, and cp in some different ways and observe what they do
 -Those are the basic ones, some other you try are ls -lat, ls -a, and cd ~
--
+
