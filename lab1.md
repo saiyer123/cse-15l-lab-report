@@ -1,3 +1,5 @@
+Lab 1 Report
+
 Installing VS Code:
 Go to https://code.visualstudio.com/ to begin the installation process.
 Once on the link download the appropriate link for Mac or Windows.
@@ -12,4 +14,8 @@ You will know it worked if it "Last login:.." appears with some more text.
 Trying Commands:
 Run the commands cd, ls, pwd, mkdir, and cp in some different ways and observe what they do.
 Those are the basic ones, some other you try are ls -lat, ls -a, and cd ~.
+
+![Image](imageName.png)
+![Image](imageName.png)
+![Image](imageName.png)
 
