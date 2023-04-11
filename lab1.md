@@ -16,6 +16,6 @@ Run the commands cd, ls, pwd, mkdir, and cp in some different ways and observe w
 Those are the basic ones, some other you try are ls -lat, ls -a, and cd ~.
 
 ![Image](CSE15L1-ExCode.png)
-![Image](CSE15L1-TryingCMDimg.png)
+![Image](CSE15LTryingCommands.png)
 ![Image](CSE15L1-VSCode.png)
 
