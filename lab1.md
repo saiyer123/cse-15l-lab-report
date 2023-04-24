@@ -17,7 +17,7 @@ You will know it worked if it "Last login:.." appears with some more text.
 
 Trying Commands:
 Run the commands cd, ls, pwd, mkdir, and cp in some different ways and observe what they do.
-Those are the basic ones, some other you try are ls -lat, ls -a, and cd ~.
+Those are the basic ones, some other you try are ls -lat, ls -a, and > cd ~.
 ls ~lat lists files and directories, including hidden ones.
 ls -a lists files and directories alphabetically , including hidden ones, lists output in default format.
 cd ~ changes the current working directory to the user's home directory
