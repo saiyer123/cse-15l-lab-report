@@ -1,7 +1,7 @@
 Lab 1 Report
 
 Installing VS Code:
-Go to https://code.visualstudio.com/ to begin the installation process.
+Go to [Link](https://code.visualstudio.com/) to begin the installation process.
 Once on the link download the appropriate link for Mac or Windows.
 
 ![Image](CSE15L1-VSCode.png)
