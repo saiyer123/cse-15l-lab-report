@@ -1,4 +1,4 @@
-Lab 1 Report
+# Lab 1 Report
 
 Installing VS Code:
 Go to [Link](https://code.visualstudio.com/) to begin the installation process.
